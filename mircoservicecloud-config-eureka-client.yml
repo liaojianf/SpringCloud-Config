@@ -23,7 +23,7 @@ eureka:
     enable-self-preservation: false #禁用eureka自我保护机制
 ---
 server:
-  port: 7001 #注册中心端口号
+  port: 7001  #注册中心端口号
 
 spring:
   profiles: test
